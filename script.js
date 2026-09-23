@@ -17,3 +17,16 @@ console.log(4**2);
  var y="10";
  console.log(x==y);
  console.log(x===y);
+
+ //conditionals
+ var x=10;
+ var y=20;
+ if(x<y){
+    console.log("x is less than y")
+ }
+ else{
+    console.log("y is greater then x")
+ }
+
+
+ 
