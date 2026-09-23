@@ -29,6 +29,32 @@
 //  }
 
 //loops
-for(var i=0;i<=5;i++){
+for(var i=0;i<=5;i++){ 
     console.log(i);
 }
+
+
+//ES6
+//var
+var a=10;
+var a=20;
+console.log(a);
+
+//let
+let a=10;
+let a=20;
+console.log(a);
+
+//const
+const a=10;
+const a=20;
+console.log(a);
+// let-resign
+//const -re declare
+
+//functions
+// function myFun(a,b){
+//     console.log("hii"); 
+//     return a+b;
+// }
+// myFun();
