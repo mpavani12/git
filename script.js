@@ -1,6 +1,13 @@
 
 // console.log(2*3);
 
-var num1=12;
-var num2=12;
-var sum=num1+num2;
+var x = 51;
+var y = 61;
+var z = x + y;
+console.log(z)
+
+
+var x=12;
+var y="hii";
+console.log(x+y)
+
