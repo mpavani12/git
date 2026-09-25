@@ -84,31 +84,31 @@
 // console.log(div(2,5))
 
 //Arrays
-// let arr=[101,"hi",89.0,true]
-// let arr2=[100,200]
-// arr[0]=10;
-// for (let i = 0; i < arr.length; i++) {
-//     console.log(arr[i]);
-// }
-// let newArr=[...arr , ...arr2];
-// console.log(newArr);
-// let obj={
-//     id:101,
-//     name:"riya",
-//     age:23
-// }
-// console.log(obj);
-//console.log(obj.age);
+let arr=[101,"hi",89.0,true]
+let arr2=[100,200]
+arr[0]=10;
+for (let i = 0; i < arr.length; i++) {
+    console.log(arr[i]);
+}
+let newArr=[...arr , ...arr2];
+console.log(newArr);
+let obj={
+    id:101,
+    name:"riya",
+    age:23
+}
+console.log(obj);
+console.log(obj.age);
 
-// let data=[
-//     {
-//         id:101,
-//         name:"riya"
-//     },
-//     {
-//         id:102,
-//         name:"vincent"
-//     }
-// ]
-//console.log(data[0].name);
+let data=[
+    {
+        id:101,
+        name:"riya"
+    },
+    {
+        id:102,
+        name:"vincent"
+    }
+]
+console.log(data[0].name);
 
